@@ -1,0 +1,6 @@
+SalesOrderID;MaterialID;MaterialName;Quantity;UoM
+13ac9f85-7a4c-42f2-a418-0eeb8d7845da;MaterialID5023C;Coffee;1000.000;BU
+e7c129b6-97c6-45a2-a836-0ad783ab8dec;MaterialID480O;Oil;2000.832;BU
+7cf494c2-9ea2-4c98-8168-0453eebe76ca;MaterialID1810R;Rice;3000;BU
+bfae428a-64fb-4730-93b0-3d342cbc6e9d;MaterialID7466S;Soybeans;4000.500;BU
+856c0356-2aad-42ea-a11b-3e2f5592fa9f;MaterialID7891W;Wheat;5000;BU
